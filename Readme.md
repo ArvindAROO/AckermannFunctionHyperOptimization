@@ -2,7 +2,7 @@
 
 Ackermann function is a recursive function which is used as an example
 for the functions which can be solved only recursively and not iteratively
-
+![function](https://github.com/ArvindAROO/AckermannFunctionHyperOptimization/blob/master/func.jpg)
 That is because of the function's third case when none of the parameters is zero,
 it calls itself with one of the parameters being the function itself
 
