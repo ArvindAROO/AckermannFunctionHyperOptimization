@@ -26,5 +26,7 @@ Once the function is called, regardless of the depth of iteration,
 it will check the file if it already has the value,
 if it does, it just uses that, or else it will calculate and also append the value to the file for future references
 
-Thank you,
-    ./<AK>
+use `python ackermannOptimized.py` for the optimized code
+and `python ackermannOriginal.py` for the legacy code
+
+Thank you
